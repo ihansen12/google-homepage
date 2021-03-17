@@ -21,7 +21,14 @@ nav{
     display:flex;
     justify-content: space-between;
 }
-p.solid {border-style: solid;}
+#form-search{
+    padding-top: .5em;
+    padding-bottom: 1.4em;
+    padding-left: 30em;
+    border-radius: 5em;
+    border-style: ridge;
+    border-color: lightgray;
+}
 
 
 
