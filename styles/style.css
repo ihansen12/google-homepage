@@ -21,6 +21,8 @@ nav{
     display:flex;
     justify-content: space-between;
 }
+p.solid {border-style: solid;}
+
 
 
 
